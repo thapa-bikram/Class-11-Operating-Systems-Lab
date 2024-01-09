@@ -1,2 +1,2 @@
 # Class-11-Operating-Systems-Lab
-This lab is designed to Familiarize students to Graphical User Interface and Command Line User Interface. Windows 10 Operating system was used for learning &amp; teaching. 
+This lab tutorials were designed to Familiarize students to Graphical User Interface and Command Line User Interface. Windows 10 Operating system was used for learning & teaching.This course was designed for Nepali Class-11 students and follows syllabus of NED board but students/instructors of all level can use this resource for learning/teaching.
